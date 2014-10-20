@@ -1,0 +1,2 @@
+body,html{margin:0;padding:0}body{width:100%;min-width:960px}.wrap{overflow-x:hidden}.inner{width:960px;margin:0 auto; height:100%;}.dark{position: fixed;top:0;bottom:0;left:0;right:0;z-index:6000;overflow: auto;}.message{background:#414141;width:300px;height:240px;margin:auto;position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;text-align:center;}.message__info{color:#fff;font:600 24px/28px "Gill Sans",sans-serif;margin:30px 0 50px}.message__close{padding:15px 30px;cursor:pointer;}
